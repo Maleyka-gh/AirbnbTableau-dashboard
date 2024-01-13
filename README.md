@@ -4,6 +4,9 @@ Airbnb is a revolutionary platform in the travel and hospitality industry, allow
 
   **How does the number of bedrooms in an Airbnb listing affect its average rental price?**
   
+  The PLOT1 CHANGE THE NAME plot provides a data-driven insight into how bedroom count—a proxy for property size and potential guest capacity—correlates with rental pricing across Airbnb listings, a vital piece of the puzzle for anyone engaged in the Airbnb marketplace.
+  The plot reveals that generally, as the number of bedrooms increases, so does the average price. This trend suggests that larger properties, which can accommodate more guests, command higher prices in the market.
+
 
 
 
