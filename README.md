@@ -5,7 +5,7 @@ Airbnb is a revolutionary platform in the travel and hospitality industry, allow
 
   **Which areas (shown by zip codes) are the most expensive when it comes to renting/hiring Airbnb accommodations?**
 
-  ![Example Image](/images/example.png)
+  !(/images/priceby zipcode.png)
 
 
 
