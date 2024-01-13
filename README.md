@@ -3,6 +3,12 @@ Airbnb is a revolutionary platform in the travel and hospitality industry, allow
   Hosts on Airbnb set their pricing based on factors like location, amenities, property size, and the number of bedrooms. Prices fluctuate based on demand, seasonality, and local events. Understanding the pricing strategies, particularly how different property characteristics, like the number of bedrooms, affect rental prices, is crucial for hosts to remain competitive and for guests to find the best options for their needs.
 
 
+ <div align="center">
+<img src="images/full.png" alt="overview" width="800"/>
+</div>
+  
+
+
   **Which areas (shown by zip codes) are the most expensive when it comes to renting/hiring Airbnb accommodations?**
 
   <div align="center">
