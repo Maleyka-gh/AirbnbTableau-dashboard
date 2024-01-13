@@ -31,6 +31,21 @@ Airbnb is a revolutionary platform in the travel and hospitality industry, allow
 
 
 
+ <div align="center">
+<img src="images/avgpriceperbedroom.png" alt="overview" width="600"/>
+</div>
+
+
+
+
+<div align="center">
+<img src="images/distinctcontsofbedroomlisting.png" alt="overview" width="600"/>
+</div>
+
+
+<div align="center">
+<img src="images/revenuforyear.png" alt="overview" width="600"/>
+</div>
 
 
 
