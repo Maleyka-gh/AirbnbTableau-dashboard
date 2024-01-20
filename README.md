@@ -14,56 +14,13 @@ Airbnb is a revolutionary platform in the travel and hospitality industry, allow
 This bar chart illustrates the average price of listings as it correlates with the number of bedrooms. There is a clear positive trend, with prices ranging from around $96 for one-bedroom listings to approximately $585 for six-bedroom listings. As the number of bedrooms increases, the average price rises, with two and three-bedroom listings averaging between $175 and $250, accommodating small to medium-sized groups. A notable price surge occurs at four bedrooms, reaching an average of over $315, and continues to escalate for five and six-bedroom listings, averaging at $450 and $585, respectively. This points to a premium on larger properties, which may reflect a combination of higher demand for spacious accommodations and a lower supply of such listings.
 2. **Price Per Zipcode**  is a choropleth map which visualizes the average price of Airbnb listings across different zip codes in a specific region. Colour intensities on the map correspond to the average listing price within each zip code, with darker shades typically representing higher prices. Conversely, areas with lighter shading indicate more affordable average prices, which could attract budget-conscious travellers or indicate less centrally located regions.
 3. **Price by Zipcode**
-Adjacent to the map, this bar chart further details the average prices by zip code, sorted from highest to lowest. A multicolored bar chart presenting the average price of Airbnb listings across different zip codes. The chart orders the zip codes from highest to lowest average price, allowing for an immediate visual comparison across geographic areas. The distribution of prices may reflect the desirability of certain neighbourhoods, proximity to key attractions or amenities, and overall market dynamics within those zip codes.
+Adjacent to the map, this bar chart further details the average prices by zip code, sorted from highest to lowest. A multicoloured bar chart presenting the average price of Airbnb listings across different zip codes. The chart orders the zip codes from highest to lowest average price, allowing for an immediate visual comparison across geographic areas. The distribution of prices may reflect the desirability of certain neighbourhoods, proximity to key attractions or amenities, and overall market dynamics within those zip codes.
    
-5. **Revenue for the year** is a time series line chart that tracks the revenue (from Airbnb listings) over the weeks of 2016. The chart begins with a steep increase in revenue during the initial weeks, suggesting a strong start to the year.
+4. **Revenue for the year** is a time series line chart that tracks the revenue (from Airbnb listings) over the weeks of 2016. The chart begins with a steep increase in revenue during the initial weeks, suggesting a strong start to the year.
 By early March, the revenue has risen sharply, reaching a plateau of around 1.8 million CAD, which it maintains with slight fluctuations throughout the year.
 Notable dips and rises suggest periodic changes in revenue, which could correspond to seasonal trends, holiday periods, or other temporal factors affecting the Airbnb market.
 
-4.**Distinct Count of Bedroom Listings** presents a table that shows the number of Airbnb listings categorized by the number of bedrooms. This table enumerates the number of listings by bedroom category, highlighting the market's skew towards one and two-bedroom properties (indicates a market focuses on solo travellers or couples mainly) with a steep decline in availability as the number of bedrooms increases.
+5.**Distinct Count of Bedroom Listings** presents a table that shows the number of Airbnb listings categorized by the number of bedrooms. This table enumerates the number of listings by bedroom category, highlighting the market's skew towards one and two-bedroom properties (indicates a market focuses on solo travellers or couples mainly) with a steep decline in availability as the number of bedrooms increases.
 
 
-  
-
-
-  **Which areas (shown by zip codes) are the most expensive when it comes to renting/hiring Airbnb accommodations?**
-
-  <div align="center">
-<img src="images/priceby zipcode.png" alt="overview" width="600"/>
-</div>
-
-
-
-
-  **How does the number of bedrooms in an Airbnb listing affect its average rental price?**
-  
-  The PLOT1 CHANGE THE NAME plot provides a data-driven insight into how bedroom count—a proxy for property size and potential guest capacity—correlates with rental pricing across Airbnb listings, a vital piece of the puzzle for anyone engaged in the Airbnb marketplace.
-  The plot reveals that generally, as the number of bedrooms increases, so does the average price. This trend suggests that larger properties, which can accommodate more guests, command higher prices in the market.
-
-  
-
- <div align="center">
-<img src="images/priceperzipcode.png" alt="overview" width="600"/>
-</div>
-
-
-
- <div align="center">
-<img src="images/avgpriceperbedroom.png" alt="overview" width="600"/>
-</div>
-
-
-
-
-<div align="center">
-<img src="images/distinctcontsofbedroomlisting.png" alt="overview" width="600"/>
-</div>
-
-
-<div align="center">
-<img src="images/revenuforyear.png" alt="overview" width="600"/>
-</div>
-
-
-
-
+Together, these visualizations provide stakeholders with a comprehensive understanding of market dynamics, from pricing strategies to inventory distribution and revenue trends. They serve as a valuable tool for hosts to optimize their listings and for analysts to gauge market performance.
