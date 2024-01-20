@@ -13,11 +13,14 @@ Airbnb is a revolutionary platform in the travel and hospitality industry, allow
 1. **Avg Price for Bedroom**
 This bar chart illustrates the average price of listings as it correlates with the number of bedrooms. There is a clear positive trend, with prices ranging from around $96 for one-bedroom listings to approximately $585 for six-bedroom listings. As the number of bedrooms increases, the average price rises, with two and three-bedroom listings averaging between $175 and $250, accommodating small to medium-sized groups. A notable price surge occurs at four bedrooms, reaching an average of over $315, and continues to escalate for five and six-bedroom listings, averaging at $450 and $585, respectively. This points to a premium on larger properties, which may reflect a combination of higher demand for spacious accommodations and a lower supply of such listings.
 2. **Price Per Zipcode**  is a choropleth map which visualizes the average price of Airbnb listings across different zip codes in a specific region. Colour intensities on the map correspond to the average listing price within each zip code, with darker shades typically representing higher prices. Conversely, areas with lighter shading indicate more affordable average prices, which could attract budget-conscious travellers or indicate less centrally located regions.
+3. **Price by Zipcode**
+Adjacent to the map, this bar chart further details the average prices by zip code, sorted from highest to lowest. A multicolored bar chart presenting the average price of Airbnb listings across different zip codes. The chart orders the zip codes from highest to lowest average price, allowing for an immediate visual comparison across geographic areas. The distribution of prices may reflect the desirability of certain neighbourhoods, proximity to key attractions or amenities, and overall market dynamics within those zip codes.
    
-3. **Revenue for the year** is a time series line chart that tracks the revenue (from Airbnb listings) over the weeks of 2016. The chart begins with a steep increase in revenue during the initial weeks, suggesting a strong start to the year.
+5. **Revenue for the year** is a time series line chart that tracks the revenue (from Airbnb listings) over the weeks of 2016. The chart begins with a steep increase in revenue during the initial weeks, suggesting a strong start to the year.
 By early March, the revenue has risen sharply, reaching a plateau of around 1.8 million CAD, which it maintains with slight fluctuations throughout the year.
 Notable dips and rises suggest periodic changes in revenue, which could correspond to seasonal trends, holiday periods, or other temporal factors affecting the Airbnb market.
-4.**Distinct Count of Bedroom Listings** presents a table that shows the number of Airbnb listings categorized by the number of bedrooms.
+
+4.**Distinct Count of Bedroom Listings** presents a table that shows the number of Airbnb listings categorized by the number of bedrooms. This table enumerates the number of listings by bedroom category, highlighting the market's skew towards one and two-bedroom properties (indicates a market focuses on solo travellers or couples mainly) with a steep decline in availability as the number of bedrooms increases.
 
 
   
