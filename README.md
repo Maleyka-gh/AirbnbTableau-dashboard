@@ -15,11 +15,9 @@ This bar chart illustrates the average price of listings as it correlates with t
 2. **Price Per Zipcode**  is a choropleth map which visualizes the average price of Airbnb listings across different zip codes in a specific region. Colour intensities on the map correspond to the average listing price within each zip code, with darker shades typically representing higher prices. Conversely, areas with lighter shading indicate more affordable average prices, which could attract budget-conscious travellers or indicate less centrally located regions.
 3. **Price by Zipcode**
 Adjacent to the map, this bar chart further details the average prices by zip code, sorted from highest to lowest. A multicoloured bar chart presenting the average price of Airbnb listings across different zip codes. The chart orders the zip codes from highest to lowest average price, allowing for an immediate visual comparison across geographic areas. The distribution of prices may reflect the desirability of certain neighbourhoods, proximity to key attractions or amenities, and overall market dynamics within those zip codes.
-   
 4. **Revenue for the year** is a time series line chart that tracks the revenue (from Airbnb listings) over the weeks of 2016. The chart begins with a steep increase in revenue during the initial weeks, suggesting a strong start to the year.
 By early March, the revenue had risen sharply, reaching a plateau of around 1.8 million CAD, which it maintains with slight fluctuations throughout the year.
 Notable dips and rises suggest periodic changes in revenue, which could correspond to seasonal trends, holiday periods, or other temporal factors affecting the Airbnb market.
-
 5.**Distinct Count of Bedroom Listings** presents a table that shows the number of Airbnb listings categorized by the number of bedrooms. This table enumerates the number of listings by bedroom category, highlighting the market's skew towards one and two-bedroom properties (indicates a market focuses on solo travellers or couples mainly) with a steep decline in availability as the number of bedrooms increases.
 
 
