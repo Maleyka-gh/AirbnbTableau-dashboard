@@ -19,6 +19,7 @@ Adjacent to the map, this bar chart further details the average prices by zip co
 4. **Revenue for the year** is a time series line chart that tracks the revenue (from Airbnb listings) over the weeks of 2016. The chart begins with a steep increase in revenue during the initial weeks, suggesting a strong start to the year.
 By early March, the revenue has risen sharply, reaching a plateau of around 1.8 million CAD, which it maintains with slight fluctuations throughout the year.
 Notable dips and rises suggest periodic changes in revenue, which could correspond to seasonal trends, holiday periods, or other temporal factors affecting the Airbnb market.
+
 5.**Distinct Count of Bedroom Listings** presents a table that shows the number of Airbnb listings categorized by the number of bedrooms. This table enumerates the number of listings by bedroom category, highlighting the market's skew towards one and two-bedroom properties (indicates a market focuses on solo travellers or couples mainly) with a steep decline in availability as the number of bedrooms increases.
 
 
